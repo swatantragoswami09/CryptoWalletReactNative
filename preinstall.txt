@@ -1,0 +1,5 @@
+emulator -list-avds
+emulator -avd name_of_emlator
+npx react-native run-android
+C:\.Net & Java Software\Open JKD -11
+C:\Users\swatantragoswami\AppData\Local\Android\Sdk
